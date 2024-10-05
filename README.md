@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ayoub-BERNANNOU
+- 👀 I’m interested in development in general but currently in the game dev industry
+- 🌱 I’m currently learning unity with C# (Csharp)
+- 📫 How to reach me : ayoub.bernannou00@gmail.com on gmail, [Ayoub BERNANNOU](https://www.facebook.com/AyouBernannou) on Facebook or [ayoub_ber00](https://www.instagram.com/ayoub_ber00/) on Instagram
+- ⚡ Fun fact: I love learning about everything, I'm a nature and calm lover, I am currently learning Italian and I would love to learn as many languages (and other things) as possible before I leave this world.
